@@ -1,2 +1,5 @@
-# amp-layout
-Google Accelerated Mobile Pages (AMP) for Foxy theme framework
+Jankx AMP Layout
+=
+
+Google Accelerated Mobile Pages (AMP) for Jankx Framework
+
