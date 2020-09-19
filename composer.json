@@ -10,5 +10,8 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "jankx/core": "dev-master",
+        "mobile-layout": "dev-master"
+    }
 }
